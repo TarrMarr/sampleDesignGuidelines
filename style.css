@@ -19,19 +19,21 @@ body {
   width: 100%;
 }
 
-.navbar {
+.nav {
   background-color: #293B3D;
 }
 
-.navbar a {
+.nav a {
   color: #E1E6DA;
   font-size: 0.8em;
 }
 
 .jumbotron {
-  width: 50%;
-  margin-top: 6em;
+  min-width: 400px;
+  max-width: 50%;
+  margin: 4rem auto;
   background-color: rgba(220, 212, 194, 0.8);
+  letter-spacing: 0.009999rem;
 }
 
 .btn {
@@ -86,5 +88,85 @@ h2 {
 }
 
 .colours {
-  background-color: #E1E6DA;
+  background-color: white;
+}
+
+.green1 {
+  background-color: #698A48;
+}
+
+.green2 {
+  background-color: #62A044;
+}
+
+.green3 {
+  background-color: #8FD16A;
+}
+
+.green4 {
+  background-color: #C2E692;
+}
+
+.blue1 {
+  background-color: #3F526F;
+}
+
+.blue2 {
+  background-color: #3A557C;
+}
+
+.blue3 {
+  background-color: #699CC6;
+}
+
+.blue4 {
+  background-color: #97C1DF;
+}
+
+.purple1 {
+  background-color: #775D7A;
+}
+
+.purple2 {
+  background-color: #815F87;
+}
+
+.purple3 {
+  background-color: #A98BB5;
+}
+
+.purple4 {
+  background-color: #D0B7D5;
+}
+
+.pink1 {
+  background-color: #CB507F;
+}
+
+.pink2 {
+  background-color: #DE5487;
+}
+
+.pink3 {
+  background-color: #E36F9B;
+}
+
+.pink4 {
+  background-color: #ECADC7;
+}
+
+.neutral1 {
+  background-color: #2D2A29;
+}
+
+.neutral2 {
+  background-color: #363434;
+}
+
+.neutral3 {
+  background-color: #565657;
+}
+
+.neutral4 {
+  background-color: #A5A5A6;
 }
