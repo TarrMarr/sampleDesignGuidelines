@@ -87,8 +87,17 @@ h2 {
   background-color: #E1E6DA;
 }
 
+.lobster {
+  font-family: 'Lobster';
+}
+
+.oswald {
+  font-family: 'Oswald';
+}
+
+
 .colours {
-  background-color: white;
+  background-color: #E1E6DA;
 }
 
 .green1 {
@@ -170,3 +179,4 @@ h2 {
 .neutral4 {
   background-color: #A5A5A6;
 }
+
