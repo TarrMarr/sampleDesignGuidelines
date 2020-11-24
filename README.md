@@ -16,7 +16,8 @@ A design guideline for a fictional website created for Codecademy's Front End De
 
 ## Screenshots
 ![Example screenshot](https://github.com/TarrMarr/sampleDesignGuidelines/blob/master/screenshot1.JPG
-)(https://github.com/TarrMarr/sampleDesignGuidelines/blob/master/screenshot2.JPG)
+)
+![Example screenshot](https://github.com/TarrMarr/sampleDesignGuidelines/blob/master/screenshot2.JPG)
 
 ## Technologies
 * HTML5
